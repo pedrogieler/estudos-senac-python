@@ -1,0 +1,2 @@
+# Mantem a serie usada nas aulas, aceitando suas atualizacoes de correcao.
+Django>=5.2.1,<5.3
